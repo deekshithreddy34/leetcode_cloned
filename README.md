@@ -1,7 +1,7 @@
-Leetcode Clone
+Leetcode Clone:
 This project is a frontend-focused clone of Leetcode, built using the MERN (MongoDB, Express.js, React, Node.js) stack. It replicates the core problem-solving functionality of Leetcode, allowing users to view problems, write code in an in-browser editor, and test their solutions against predefined test cases.
 
-Features
+Features:
 *)Problem List View: Displays a list of coding problems fetched from the backend.
 
 *)Problem Details Page: Each problem includes a description, constraints, and examples.
@@ -14,7 +14,7 @@ Features
 
 *)Routing: Navigation is handled using React Router for smooth transitions between the problem list and individual problems.
 
-*)Technologies Used
+Technologies Used:
 
 *)Frontend
 
