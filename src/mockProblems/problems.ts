@@ -52,7 +52,7 @@ export const problems: Problem[] = [
 		id: "container-with-most-water",
 		title: "Container With Most Water",
 		difficulty: "Medium",
-		category: "Two Pointers",
+		category: "Two Pointer",
 		order: 6,
 		videoId: "",
 	},
